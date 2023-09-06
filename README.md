@@ -25,4 +25,11 @@ Here you can find (following projects are listed attending to its development st
         drive the player to innovate their gameplay style to defeat them, or a health bar that decreases by time and replenishes with kills stablishing 'killing' as the main goal in the game, and not just dodging...
   
 - Extreme Clown Simulator: https://antonioestrad.itch.io/extreme-clown-simulator (Weekend game jam project)
+        "Despite not being my first game jam, it was indeed the first one in which I performed as a programmer. Here, I gain experience working with industry professionals (Axes In Motion), and realised that I am ready
+        to communicate effectively with my teammates and get the work done before the deadline.
         
+
+
+Feel free to contact me if you are interested in my profile or you have any question.
+
+See you around!
