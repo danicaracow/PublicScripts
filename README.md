@@ -28,6 +28,9 @@ Here you can find (following projects are listed ordered by their development st
 - Extreme Clown Simulator: https://antonioestrad.itch.io/extreme-clown-simulator (Weekend game jam project)
         "It wasn't my first game jam, but it was the first where I took on the role of a programmer. In this experience, I worked alongside industry professionals from Axes In Motion and realised that I am ready to communicate
         effectively with my teammates and get the work done before the deadline."
+
+- Lumiland: https://caracow.itch.io/glow (Submission to Indie Spain Jam 2023)
+        "In this seven days game jam I managed to design and develop a fun, challenging and fully playable game prototype. 2D art was designed by Alma Garez (https://www.linkedin.com/in/alma-garez-alba-ortega-20636717b/). Overall, I would like to highlight the AI driving the enemy and friendly NPCs and the day/night mechanic, which was one of the game jam key words."
         
 
 
